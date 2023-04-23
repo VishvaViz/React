@@ -2,7 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import Event from './components/Event';
 import Testtest from './components/testtest'
-
+import Buttons from'./components/Buttons'
+import Input from './components/Calculator'
 function App() {
   return (
     <div className="App">
@@ -21,7 +22,9 @@ function App() {
         </a>
       </header> */}
       {/* <Event/> */}
-      <Testtest/>
+      {/* <Testtest/> */}
+      {/* <Buttons/> */}
+      <Input/>
     </div>
   );
 

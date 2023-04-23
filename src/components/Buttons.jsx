@@ -1,5 +1,5 @@
 import React from "react";
-import Input from './Input'
+import Input from './Calculator'
 
 class Buttons extends React.Component{
     render(){
